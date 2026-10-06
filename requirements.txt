@@ -1,0 +1,12 @@
+jupyter
+matplotlib
+numpy
+opencv-python
+pandas
+plotly
+seaborn
+tensorboard
+tensorflow
+torch
+torchvision
+tqdm
